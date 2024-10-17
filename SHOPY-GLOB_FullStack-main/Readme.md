@@ -52,6 +52,7 @@ ShoopyGlob is a full-featured e-commerce application that allows users to explor
 
 1. Clone the repository:
    ```bash
+   [text](https://github.com/PujaTiwa/ShoppyGlobe-FullStack.git)
    ```
 
 2. Install dependencies:
@@ -149,4 +150,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue. 
 You can find the source code here:
 
 - **Repository**: 
-
+[text](https://github.com/PujaTiwa/ShoppyGlobe-FullStack.git)
